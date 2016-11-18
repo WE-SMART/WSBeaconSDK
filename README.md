@@ -1,0 +1,2 @@
+# WSBeaconSDK
+WE-SMART WSBeaconSDK
