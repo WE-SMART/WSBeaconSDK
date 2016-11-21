@@ -1,0 +1,6 @@
+framework module WSBeaconSDK {
+  umbrella header "WSBeaconSDK.h"
+
+  export *
+  module * { export * }
+}
